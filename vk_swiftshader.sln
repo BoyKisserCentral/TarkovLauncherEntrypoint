@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vulkan-1", "vulkan-1\vulkan-1.vcxproj", "{64A6EE77-05FC-465E-95F1-2C3197E69EDB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vk_swiftshader", "vk_swiftshader\vk_swiftshader.vcxproj", "{64A6EE77-05FC-465E-95F1-2C3197E69EDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
