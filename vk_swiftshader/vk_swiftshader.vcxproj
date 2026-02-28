@@ -22,7 +22,7 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{64A6EE77-05FC-465E-95F1-2C3197E69EDB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>vulkan_1</RootNamespace>
+    <RootNamespace>vk_swiftshader</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
